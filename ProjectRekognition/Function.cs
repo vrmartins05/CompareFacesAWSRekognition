@@ -27,9 +27,6 @@ namespace ProjectRekognition
             var array = input.Split(new char[] { '#' }, StringSplitOptions.RemoveEmptyEntries);
             string name = (array[0] + "/" + array[0] + ".jpg");
 
-
-            // string name = "vinicius/vinicius.jpg";
-            //CompareFacesRequest compareFacesRequest = new CompareFacesRequest()
             var response = await rekognitionClient.CompareFacesAsync(new CompareFacesRequest
             {
                 SimilarityThreshold = 90,
