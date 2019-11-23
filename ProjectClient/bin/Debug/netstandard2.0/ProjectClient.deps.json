@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "33edc51e6880d792fafd2ccca76b6e5d1e20a62a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "ProjectClient/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Lambda": "3.3.104.2",
+          "AWSSDK.S3": "3.3.108.1",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "ProjectClient.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.67": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.67"
+          }
+        }
+      },
+      "AWSSDK.Lambda/3.3.104.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.67"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Lambda.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.2"
+          }
+        }
+      },
+      "AWSSDK.S3/3.3.108.1": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.67"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.108.1"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.67": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ka5+C17YgNv4Ukbi0S42ZZ0Tqiqif2SHKFRAzDfYU4EQ7YgS++PXraqJIA9M8+lydzcXvGM9EewcEx/Q0ShzzQ==",
+      "path": "awssdk.core/3.3.103.67",
+      "hashPath": "awssdk.core.3.3.103.67.nupkg.sha512"
+    },
+    "AWSSDK.Lambda/3.3.104.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V3HL+7XlE+soRJOLjKFVs/OW5LxPLP1dRjZJoq71Jr8HGNNwibV+gGNeT+b9B2zvzYPUW2jEKopgxkWhKGxgDg==",
+      "path": "awssdk.lambda/3.3.104.2",
+      "hashPath": "awssdk.lambda.3.3.104.2.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.3.108.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uwOM1yxK7tymSsKAGqAQM4mH4XZ/gvpGFZ7tRsrDTEK4IaVXMlebwvTmEe1oJ5bV7CLZmJ0JP1b+dZhBXp2MtA==",
+      "path": "awssdk.s3/3.3.108.1",
+      "hashPath": "awssdk.s3.3.3.108.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    }
+  }
+}

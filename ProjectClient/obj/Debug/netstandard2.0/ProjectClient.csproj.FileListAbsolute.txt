@@ -1,0 +1,9 @@
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\bin\Debug\netstandard2.0\ProjectClient.deps.json
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\bin\Debug\netstandard2.0\ProjectClient.dll
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\obj\Debug\netstandard2.0\ProjectClient.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\obj\Debug\netstandard2.0\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\obj\Debug\netstandard2.0\ProjectClient.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\obj\Debug\netstandard2.0\ProjectClient.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\bin\Debug\netstandard2.0\ProjectClient.pdb
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\obj\Debug\netstandard2.0\ProjectClient.dll
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectClient\obj\Debug\netstandard2.0\ProjectClient.pdb

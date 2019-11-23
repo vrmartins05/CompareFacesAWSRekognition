@@ -1,0 +1,11 @@
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\bin\Debug\netcoreapp2.1\ProjectRekognition.deps.json
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\bin\Debug\netcoreapp2.1\ProjectRekognition.runtimeconfig.json
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\bin\Debug\netcoreapp2.1\ProjectRekognition.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\bin\Debug\netcoreapp2.1\ProjectRekognition.dll
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\obj\Debug\netcoreapp2.1\ProjectRekognition.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\obj\Debug\netcoreapp2.1\ProjectRekognition.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\obj\Debug\netcoreapp2.1\ProjectRekognition.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\obj\Debug\netcoreapp2.1\ProjectRekognition.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\bin\Debug\netcoreapp2.1\ProjectRekognition.pdb
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\obj\Debug\netcoreapp2.1\ProjectRekognition.dll
+C:\Users\Vinicius\source\repos\ProjectRekognition\ProjectRekognition\obj\Debug\netcoreapp2.1\ProjectRekognition.pdb
